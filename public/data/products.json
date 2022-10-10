@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "brand": "Adidas",
+        "name": "Originals Superstar W Gx1839",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/adidas.png",
+        "description": "Trainer shoes",
+        "gender": "Dama",
+        "price_usd": 95,
+        "colour": "Blanco "
+    },
+    {
+        "id": 2,
+        "brand": "Fila",
+        "name": "Disruptor Ii Premium",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/fila.png",
+        "description": "Running shoes",
+        "gender": "Unisex",
+        "price_usd": 95,
+        "colour": "Blanco"
+    },
+    {
+        "id": 3,
+        "brand": "Reebok",
+        "name": "Freestyle High Classic",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/reebok.png",
+        "description": "Freestyle shoes",
+        "gender": "Dama",
+        "price_usd": 85,
+        "colour": "Blanco"
+    },
+    {
+        "id": 4,
+        "brand": "Skechers",
+        "name": "BOBS Sport Squad 3",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/skechers.png",
+        "description": "Running shoes",
+        "gender": "Dama",
+        "price_usd": 105,
+        "colour": "Rosa"
+    },
+    {
+        "id": 5,
+        "brand": "Umbro",
+        "name": "Sunderland",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/umbro.png",
+        "description": "Running shoes",
+        "gender": "Caballero",
+        "price_usd": 60,
+        "colour": "Negro"
+    },
+    {
+        "id": 6,
+        "brand": "Nike",
+        "name": "Air Jordan",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/nike.png",
+        "description": "Running shoes",
+        "gender": "Caballero",
+        "price_usd": 60,
+        "colour": "Negro"
+    },
+    {
+        "id": 7,
+        "brand": "New Balance",
+        "name": "Fresh Foam X 1080",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/new-balance.png",
+        "description": "Running shoes",
+        "gender": "Caballero",
+        "price_usd": 160,
+        "colour": "Azul"
+    },
+    {
+        "id": 8,
+        "brand": "Converse All Stars",
+        "name": "Chuck Taylor Leather Hi",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/converse.png",
+        "description": "Leather shoes",
+        "gender": "Unisex",
+        "price_usd": 130,
+        "colour": "Rosa"
+    },
+    {
+        "id": 9,
+        "brand": "Puma",
+        "name": "Incinerate",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/puma.png",
+        "description": "Running shoes",
+        "gender": "Caballero",
+        "price_usd": 100,
+        "colour": "Negro"
+    },
+    {
+        "id": 10,
+        "brand": "Swissbrand",
+        "name": "Linz",
+        "link": "javascript:void(0)",
+        "image": "https://raw.githubusercontent.com/nicolas5746/PreEntrega1-Batista-Pineyro/master/public/images/swissbrand.png",
+        "description": "Backpacks",
+        "gender": "Unisex",
+        "price_usd": 95,
+        "colour": "Negro"
+    }
+]

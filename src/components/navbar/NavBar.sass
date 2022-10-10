@@ -1,0 +1,36 @@
+@use 'assets/styles/colours'
+@use 'assets/styles/fonts'
+
+#title
+    color: colours.$crimson
+    font-family: fonts.$caveat
+    font-size: 2rem
+    font-weight: 400
+    text-align: center
+    &:hover
+        color: colours.$medium-blue
+        font-weight: 800
+
+#cart
+    color: colours.$gainsboro
+
+#logo
+    width: 5%
+
+nav
+    border-radius: 0 0 50em 50em
+
+.flex
+    align-items: center
+    justify-content: space-around
+    & a
+        color: colours.$roman-silver
+        font-family: fonts.$roboto
+        font-size: 1rem
+        &:hover
+            color: colours.$gainsboro
+            transform: scale(1.05)
+
+@media screen and (max-width:768px)
+    #logo
+        display: none

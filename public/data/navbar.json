@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dama",
+        "link": "javascript:void(0)",
+        "current": false
+    },
+    {
+        "name": "Caballero",
+        "link": "javascript:void(0)",
+        "current": false
+    },
+    {
+        "name": "Marcas",
+        "link": "javascript:void(0)",
+        "current": false
+    },
+    {
+        "name": "Accesorios",
+        "link": "javascript:void(0)",
+        "current": false
+    }
+]
